@@ -134,7 +134,9 @@ public class Main {
 
         System.out.println(CYAN + "\t\t\t\t Your strong password-:> " + GREEN + password + RESET);
     }
-
+// ---------------------------------------------
+// بافلي سمعان     
+// --------------------------------
 
 // دالة الفحص 
     public static void cheker(String password) {
